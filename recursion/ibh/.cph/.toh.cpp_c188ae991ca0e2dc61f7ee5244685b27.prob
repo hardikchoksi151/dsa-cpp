@@ -1,0 +1,1 @@
+{"name":"Local: toh","url":"/home/hardik/dsa/recursion/ibh/toh.cpp","tests":[{"id":1730966119491,"input":"3","output":"1 -> 3\n1 -> 2\n3 -> 2\n1 -> 3\n2 -> 1\n2 -> 3\n1 -> 3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/hardik/dsa/recursion/ibh/toh.cpp","group":"local","local":true}
